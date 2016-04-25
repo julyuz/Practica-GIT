@@ -1,0 +1,17 @@
+Tutorial de como usar GIT
+25 DE ABRIL 
+La hora nose
+
+
+Comandos iniciales
+ $git config --global push.default matching
+   Configuracion global de repositorios
+
+ $git init
+   Se inicializa un repositorio vacío de Git en la ruta localizada
+
+ $git status
+    Muestra el estado de la carpeta actual
+
+ $git add <file>
+    Agrega el archivo dado al stage del repositorio
