@@ -15,3 +15,38 @@ Comandos iniciales
 
  $git add <file>
     Agrega el archivo dado al stage del repositorio
+
+ $git commit -m " mensaje que describa los cambios"
+    Salva los cambios hechos
+
+ $git diff
+    Permite ver la diferencia de los archivos desde la ultima vez que hiciste un commit
+    ( texto en Verde es lo Agregado, texto en Rojo es lo Eliminado )
+
+ $git checkout <file>
+    Regenera el archivo, antes de ejecutarlo, es recomendable el comando "git status" y dirá m"modified",
+    GIT sabe que se modificó
+
+  Antes de hacer un commit se debe de hacer un git add
+    git add <file>
+
+
+
+###Comentarios de prueba para ver los cambios que he hecho
+
+###Comentarios de prueba para ver los cambios que he hecho
+
+## Mas comentarios de ejemplo..
+	###
+	###
+
+
+
+
+
+
+
+
+
+
+
